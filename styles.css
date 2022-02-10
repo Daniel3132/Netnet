@@ -1,0 +1,121 @@
+
+*{
+    color: white;
+    margin: 0;
+    font-family: bold;
+    --rojo: #D22F26 ;
+    --gris: #686868 ;
+    
+}
+main{
+    overflow: hidden;
+    background-color: black;
+    
+}
+.logo{
+    margin: 3%;
+    size: 35%;
+    position: relative;
+    padding: 1vw;
+}
+.bg{
+
+    width: 100%;
+}
+.bg1{
+    position: absolute;
+    width: 100%;
+}
+.imgMovie{
+    width: 135px;
+    height: 200px;
+    border-radius: 3px;
+}
+.movies{
+   padding: 6px;   
+}
+.cartasContainer{
+    margin: 3%;
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:start;
+    overflow-y: hidden;      
+}
+
+h4{
+    font-size: 3vw;
+    margin: 2% 4% ;
+    
+}
+.matrixBtn{
+    margin: 4%;
+    display: flex;
+    position: relative;
+    width: 40vw;
+    align-content: center;
+
+}
+.botones{
+    margin-top: 60vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.041), rgba(0, 0, 0, 0.712), black);
+    position: relative;
+    width: 100%;
+}
+.top{
+    position:relative;
+   /*  background: #66999 url(background-photo.jpg) center center cover no-repeat fixed; */
+    background-image: url("./img/peliculas/matrixrecargado.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+}
+footer{
+    background-color: black;  
+}
+.btn{
+    padding: 2% 5%;
+}
+button{
+    padding: 5%;
+    background-color: black;
+     /* border: none;  */
+}
+body{
+    background-color: black;
+}
+a{
+    color:black
+}
+
+.linkTop{
+    margin-top: 1rem;
+    font-weight: 400;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    list-style:none
+}
+.linkMid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+li{   
+    font-size: 2vw;
+    font-weight: 400;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    margin: 0 10%;
+    cursor: pointer;
+}
+.desc{
+
+    justify-content: center;
+    margin: 3% 3%;
+}

@@ -4,9 +4,82 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <title>Netnet</title>
 </head>
 <body>
-    
+  
+    <main id="main" >
+
+        <div id="top" class="top">
+
+            <img src="./img/bg.png" class="bg1"> 
+            <img src="./img/logo-netflix.png" class="logo">
+            
+            
+            
+            <!-- <img src="./img/peliculas/matrixrecargado.jpg" class="bg"> -->
+
+<ul class="linkTop">
+    <li id="seriesCall">Series</li>
+    <li id="peliculasCall">Peliculas</li>
+    <li id="milistaCall">Mi lista</li>
+</ul>
+
+         
+                <center>
+                <div class="botones">
+                    <img src="./img/matrixrr.png" class="matrixBtn">
+                    <ul class="linkMid">
+                        <li class="desc">Surrealista</li>
+                        <li class="desc">Distopico</li>
+                        <li class="desc">Habil</li>
+                        <li class="desc">Siniestro</li>
+                        <li class="desc">Elegante</li>   
+                    </ul>
+                    <img src="./img/milista.png" class="btn">        
+                   <a href="descarga.html"><img src="./img/reproducir.png" class="btn"></a> 
+                    <img src="./img/info.png" class="btn">
+                </div>
+                </center>
+
+        </div>
+        
+        <div class="labelMain" id="labelMain">
+        
+            <h4 id="labelPop">Populares en Netnet</h4>
+            <div id="populares" class="cartasContainer">
+            </div>       
+     
+            <h4 id="labelJpn">Series japonesas anime</h4>
+            <div id="animes" class="cartasContainer">   
+            </div>
+     
+            <h4 id="labelCri">Series de EE.UU sobre crimenes</h4>
+            <div id="crimenes" class="cartasContainer">   
+            </div>
+      
+        </div>
+
+            <h4 id="seriesLabel">Series</h4>
+            <div id="series" class="cartasContainer">   
+            </div>
+              
+            <h4 id="peliculasLabel">Peliculas</h4>
+            <div id="peliculas" class="cartasContainer">   
+            </div>
+       
+    </main>
+
+    <footer class="footer">
+        <center>
+        <a href="index.html"><button><img src="./img/inicio.png"></button></a>
+        <a href="descarga.html"><button ><img src="./img/proximamente.png"></button></a>
+        <button><img src="./img/buscar.png"></button>
+        <button><img src="./img/descargas.png"></button>
+        </center>
+    </footer>
+
+    <script src="./scripts/script.js" type="module" ></script>
 </body>
 </html>
