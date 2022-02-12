@@ -126,22 +126,13 @@ footer{
   
 
 }
-    .btnFooter{
-    
-    }
-
-
-
-
-/* Estilos para motores Webkit y blink (Chrome, Safari, Opera... )*/
-
+button{
+    cursor: pointer;
+    border:none
+}
 .cartasContainer::-webkit-scrollbar {
     -webkit-appearance: none;
 }
-
-/* .cartasContainer::-webkit-scrollbar:vertical {
-    width:10vh;
-} */
 
 .cartasContainer::-webkit-scrollbar-button:increment,.cartasContainer::-webkit-scrollbar-button {
     display: none;

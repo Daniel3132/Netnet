@@ -14,7 +14,7 @@ function pintarVentana(){
         globalThis.aidi = id;
         globalThis.tipoo = tipo;
         titulo.innerHTML=` ${name} `
-        imagen.innerHTML=`<img class="imagen" src="${image2}" >  `
+        imagen.innerHTML=`<img class="imagen" src="${image2}") > `
         info.innerHTML=`${info1}`
         info2.innerHTML=`${elenco}`
         info3.innerHTML=`${director}`
@@ -35,10 +35,7 @@ peliculas.forEach(element =>{
     }
 })
 //////////////////////////////////////////////////////////////////////
-import {verVideo} from "./peliculas.js"
-let imgMovie = document.querySelectorAll('imgMovie')
-const pintarId = imgMovie.target.getAttribute('id');
-document.addEventListener('click',verVideo(pintarId))
+
 
 
 

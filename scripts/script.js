@@ -362,7 +362,7 @@ peliculasPrint.addEventListener('click', (e)=>{
                   const pintarDiv = document.createElement('div')
                   pintarDiv.classList.add('movies')
                   pintarDiv.innerHTML = 
-                  `  <img src="${image}" alt="" class="imgMovie id="${id}" >    `
+                  `  <img src="${image}" alt="" class="imgMovie onclick="verVideo(${id}) >    `
                   peliculasform.appendChild(pintarDiv)
               }    
           });

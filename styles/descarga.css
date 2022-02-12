@@ -103,15 +103,9 @@ main{
         /* padding: 6px; */
         cursor: pointer;
     }
-
-
-footer{
- 
-    /* background-color: #000; */
-    
-}
     button{
-      
+        cursor: pointer;
+       border: none;
         background-color: #000;
         padding: 5%;
     }
@@ -121,10 +115,6 @@ footer{
     .cartasContainer::-webkit-scrollbar {
         -webkit-appearance: none;
     }
-    
-    /* .cartasContainer::-webkit-scrollbar:vertical {
-        width:10vh;
-    } */
     
     .cartasContainer::-webkit-scrollbar-button:increment,.cartasContainer::-webkit-scrollbar-button {
         display: none;
