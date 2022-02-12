@@ -30,9 +30,11 @@ main{
     width: 135px;
     height: 200px;
     border-radius: 3px;
+    cursor:pointer 
 }
 .movies{
-   padding: 6px;   
+   padding: 6px;  
+   
 }
 .cartasContainer{
     margin: 3%;
@@ -45,7 +47,7 @@ main{
 }
 
 h4{
-    font-size: 3vw;
+    font-size: 3.5vw;
     margin: 2% 4% ;
     
 }
@@ -105,7 +107,7 @@ a{
 }
 
 li{   
-    font-size: 2vw;
+    font-size: 3.2vw;
     font-weight: 400;
     justify-content: center;
     flex-direction: column;

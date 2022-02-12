@@ -83,7 +83,7 @@ const peliculas =[
         "formato": "pelicula",
         "info1": "Neo, Morpheus, Trinity y el resto de la tripulación continúan luchando contra las máquinas que han esclavizado a los humanos. Ahora más humanos han sido liberados y llevados a Sión, el último y único baluarte de la resistencia humana. El mismo Neo ha descubierto sus superpoderes, incluyendo la super velocidad y la capacidad de ver los códigos dentro de Matrix. Pero una mala noticia llega a la resistencia humana: 250.000 máquinas centinelas están llegando a Sión y tienen muy poco tiempo...",
         "elenco": "Elenco: Keanu Reeves, Laurence Fishburne...más",
-        "director": "Dirigido por: Dirigido por: Lilly wachowski, Lana wachowski",
+        "director": " Dirigido por: Lilly wachowski, Lana wachowski",
         "image": "img/peliculas/matrix.jpg",
         "image2": "img/peliculas/matrixrecargado.jpg"
       },
@@ -164,6 +164,116 @@ const peliculas =[
         "image": "img/peliculas/xmen.jpg",
         "image2": "img/peliculas/xmenwall.jpeg"
       },
+      {
+        "id": 16,
+        "name": "Ted Bundy: Durmiendo con el asesino",
+        "tipo": "popular",
+        "formato": "pelicula",
+        "info1": "Theodore Robert Bundy fue uno de los asesinos en serie más peligrosos de los años 70 en Estados Unidos. Secuestraba, violaba y mataba a sus víctimas en silencio mientras se mostraba como un hombre amable, carismático y caballeroso. De hecho, tenía una larga relación con Elizabeth Kloepfer desde 1969, quien conoció el lado positivo de su pareja y se negaba a creer que él hubiera sido capaz de cometer crímenes tan atroces hasta que Ted Bundy, después de una década negando su culpabilidad, confesó el asesinato de 36 mujeres entre 1974 y 1978.",
+        "elenco": "Zac Efron y Lily Collins ",
+        "director": "Dirigido por: Joe Berlinger  ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_wvbUqvsHa0cuqMN6vWbaf1bmdZgVXfG7HSwFrMbeF-fi_utk-F5fToK3gmQ7z3nmQ&usqp=CAU",
+        "image2": "https://i.ytimg.com/vi/DlY1qhKxZhU/maxresdefault.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Manhunt: Unabomber",
+        "tipo": "crimen",
+        "formato": "serie",
+        "info1": "Esta miniserie narra en ocho episodios la historia real de Theodore Kaczynski, un terrorista que entre los años ochenta y principios de los noventa sembró pánico en Estados Unidos al enviar cartas bomba a diferentes objetivos a modo de protesta por la industrialización y modernización de la sociedad, que según él, estaba destruyendo la naturaleza. Con estos ataques asesinó a tres personas y dejó 23 heridos. Creada por Andrew Sodroski (nominado al premio WGA de mejor guion original formato largo por Unabomber) y dirigida por Greg Yaitanes (Emmy a mejor dirección por Dr. House), cuenta también la historia del agente del FBI Jim “Fitz” Fitzgerald, quien logró capturar a Kaczynski, alias Unabomber, aplicando a la investigación sus conocimientos de lingüística forense, pese a que sus compañeros no confiaban en su método. Está protagonizada por Sam Worthington (Avatar, Furia de Titanes, Fractura) y Paul Bettany (El código Da Vinci, Una mente maravillosa, Tío Frank) y se estrenó en la plataforma de Netflix en diciembre del 2017.",
+        "elenco": "Sam Worthington y Paul Bettany",
+        "director": "Andrew Sodroski ",
+        "image": "https://pics.filmaffinity.com/manhunt_unabomber-838839492-large.jpg",
+        "image2": "https://i.blogs.es/9d93ce/35285_day08_0202/1366_2000.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Historia de un crimen: Colmenares",
+        "tipo": "crimen",
+        "formato": "serie",
+        "info1": "El caso del estudiante colombiano Luis Andrés Colmenares, que fue encontrado sin vida en 2010 después de una fiesta de Halloween, también llegó a Netflix. En ocho episodios, esta miniserie trata de responder la misma pregunta que las investigaciones judiciales se han hecho desde hace 11 años: ¿fue un accidente o un asesinato? Dirigida por Felipe Cano Ibañez y Felipe Martínez Amador, cuenta con la participación de actores como Enrique Carriazo (fiscal González), Laura Osma (Laura Moreno), Sebastián Osorio (Luis Andrés Colmenares), Juan Pablo Urrego (Carlos Cárdenas), Fabiana Medina (Oneida Escobar de Colmenares), Juliana Velásquez (Jessy Quintero), Julián Román (periodista Salazar) y Ernesto Benjumea (abogado de Laura Moreno y Jessy Quintero).",
+        "elenco": "Enrique Carriazo , Laura Osma ",
+        "director": "Dirigido por: Felipe Cano Ibañez y Felipe Martínez Amador ",
+        "image": "https://pics.filmaffinity.com/historia_de_un_crimen_colmenares-165891089-large.jpg",
+        "image2": "https://caracoltv.brightspotcdn.com/dims4/default/35e8e3b/2147483647/strip/true/crop/1500x720+0+0/resize/1000x480!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fshock%2Fcontent_files%2F2020_10%2Fimage_article%2Fluis_andres_colmenares_netflix_serie.jpg"
+      },
+      {
+        "id": 19,
+        "name": "En mi propia piel",
+        "tipo": "crimen",
+        "formato": "pelicula",
+        "info1": "Esta película italiana (2018) dirigida por Alessio Cremonini (Premio David de Donatello al mejor director por En mi propia piel) y protagonizada por Alessandro Borghi (Premio David de Donatello al mejor actor protagonista por la misma película), está basada en el caso de Stefano Cucchi, un hombre que en 2009 fue detenido por la policía italiana por supuesto tráfico de droga. Stefano fue sometido a fuertes golpizas por parte de los carabineros desde su detención y le negaron la posibilidad de ejercer sus derechos fundamentales, por lo que a pesar del esfuerzo de su familia, nunca se les permitió verlo. Fueron siete días de brutales tratos contra este hombre hasta que el 22 de octubre murió a causa de las fuertes lesiones visibles en todo su cuerpo. Esto llevó a su familia a iniciar una batalla legal para conocer la verdad sobre el caso y descubrir a los responsables de la muerte de Cucchi.",
+        "elenco": "Alessandro Borghi ",
+        "director": "Dirigido por: Alessio Cremonini ",
+        "image": "https://occ-0-299-300.1.nflxso.net/art/fa74c/0df2ba40997a2cc7dad97efa451c9318593fa74c.jpg",
+        "image2": "https://www.flixwatch.co/wp-content/uploads/81001000.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Unbelievable ",
+        "tipo": "crimen",
+        "formato": "serie",
+        "info1": "Está basada en el caso real de Marie Adler, una joven de 18 años que fue violada en su apartamento y que, al denunciar el caso sintió tal presión y desamparo que se vio obligada a retractarse, así que fue acusada de mentir. “Se refiere a los peores miedos de las mujeres -que un hombre irrumpa en el medio de la noche en nuestra habitación, nos ate, nos viole y se vaya sin dejar rastros- y nos enfrenta a esa realidad que conocemos desde hace mucho, pero que estamos cada vez más cansadas de aceptar: la posibilidad de que no nos crean”, escribió la periodista Sofía Benavides en el portal Infobae.",
+        "elenco": "Marie Adler",
+        "director": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt15ONp_uf5tAplIyhmbaT9RKG_p5pU0-Kxi7lrjl6nev6phzosrNVsgi_114GHYdUYCA&usqp=CAU",
+        "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8Qtjzy7kJUwmd1URM-9wQ0NLaTsRTSNMcAaxRi6IcB-eNdquEKqqO1fOj65BGEZ1S6Q&usqp=CAU"
+      },
+      {
+        "id": 21,
+        "name": "When they see us",
+        "tipo": "crimen",
+        "formato": "serie",
+        "info1": "Esta es la historia de cinco adolescentes que, en 1989, fueron injustamente acusados del ataque y violación de Trisha Meili, una joven banquera que fue encontrada en Central Park, Nueva York. La crítica de esta serie creada y dirigida por Ava DuVernay (primera mujer afroamericana en obtener el premio a la Mejor Dirección en el Festival de Cine de Sundance) ha sido muy positiva.",
+        "elenco": " ",
+        "director": "Ava DuVernay ",
+        "image": "https://i.pinimg.com/originals/65/78/cf/6578cf29d97fd0c09adc53d85f5dafda.jpg",
+        "image2": "https://i0.wp.com/revistadiners.com.co/wp-content/uploads/2021/03/when_they_see_us_1200x800.jpg?resize=768%2C512&ssl=1"
+      },
+      {
+        "id": 22,
+        "name": "Kimetsu No Yaiba",
+        "tipo": "popular",
+        "formato": "serie",
+        "info1": "Basada en el manga de Koyoharu Gotouge, Kimetsu No Yaiba es un fantástico exponente del shounen con elementos de samuráis y fantasía. La serie se centra en Tanjiro Kamado, un joven que es el sustento de su familia y trabaja vendiendo carbón.Un día, durante una de sus ventas se le hace muy tarde, y la montaña en la que vive es notoria por demonios nocturnos que son peligrosos. Al amanecer, regresa a su casa, para encontrar una escena que le cambiaría la vida para siempre. Toda su familia ha sido masacrada, y su hermana es la única superviviente, pero está transformada en demonio.Después de encontrarse con un cazador de demonios que intenta asesinarla, Tanjiro le demuestra que su hermana sigue consciente, y no es una amenaza para él. Bajo la protección de este cazador, Tanjiro buscará la forma de salvarla y transformarla de nuevo en humana, pero primero debe volverse un cazador de demonios y aprender a defenderse a sí mismo, si pretende viajar buscando una cura.",
+        "elenco": " ",
+        "director": "Koyoharu Gotouge ",
+        "image": "https://ramenparados.com/wp-content/uploads/2021/09/DemonSaler_MugenTrainArc-min-scaled.jpg",
+        "image2": "https://cdn.superaficionados.com/imagenes/1-animes-interesantes-kimetsu-no-yaiba-cke.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Beastars ",
+        "tipo": "anime",
+        "formato": "serie",
+        "info1": "Paru Itagaki creó una fantástica historia que mezcla dinámicas animales con la sociedad humana y sus matices. Beastars es una obra muy interesante con una animación CG experimental que mezcla el romance con el instinto animal Legoshi es nuestro protagonista, un lobo gris de apariencia amenazante. Pero a pesar de su altura y su físico, Legoshi es muy tímido y callado, no le gusta ser el centro de atención. Cuando conoce a una coneja blanca llamada Haru, su interés por ella varía entre un instinto casi incontrolable de hincarle el diente y protegerla.Esta sensación desconcierta lo desconcierta, y se convence de que el deseo que siente por Haru es romántico. Al ver que la chica parece ser popular en la escuela, intenta por todos los medios acercarse a ella y llamar su atención, pero un par de encuentros fortuitos sacan su lado más tímido (y a veces, el más animal) ante una mujer que no parece tenerle miedo a nada.",
+        "elenco": "",
+        "director": "Paru Itagaki ",
+        "image": "https://pics.filmaffinity.com/Beastars_Serie_de_TV-624742188-large.jpg",
+        "image2": "https://cdn.superaficionados.com/imagenes/2-animes-interesantes-beastars-cke.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Kaguya-sama: Love is War ",
+        "tipo": "anime",
+        "formato": "serie",
+        "info1": "Kaguya-sama: Love is War es una de las mejores comedias románticas de los últimos años. Creado por Aka Akasaka, es una historia donde el amor es un campo de guerra.¿Qué pasa cuando la realeza de la escuela se enamora? ¡Pues una guerra, por supuesto! Miyuki Shirogane y Kaguya Shinomiya son los líderes del consejo estudiantil de la escuela Shuchiin, y ambos son respetados por todos como iguales. Además, toda la escuela piensa que harían una pareja estupenda.Lo gracioso, es que tanto Kaguya como Miyuki se gustan. El sentimiento es mutuo, pero... no quieren confesarse. Sus ideales y su forma de pensar les impide verse vulnerables, por lo cual tratan el asunto con guante de seda y buscan la forma de empujar al otro hacia una posible confesión con juegos, manipulación y engaños. ¿Será que algún día los sentimientos de ambos saldrán a la luz?",
+        "elenco": " ",
+        "director": " ",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkzZjZiOWItZGM5Ny00N2IxLTg4ZTQtYTBiODhlNmRlM2IxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "image2": "https://cdn.superaficionados.com/imagenes/3-animes-interesantes-kaguya-sama-love-is-war-cke.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Boku No Hero Academia",
+        "tipo": "anime",
+        "formato": "pelicula",
+        "info1": "Kouhei Horikoshi toma la fórmula repetitiva del shounen y crea algo fantástico y especial con My Hero Academia. Izuku Midoriya es nuestro protagonista, un joven que sueña en grande, a pesar de no tener la habilidad que ya tiene el 90% de la población: un don.A pesar de esto, no se deja vencer, y sigue investigando para ser un héroe, anotando todo en sus libretas. Pero cuando un día un compañero de su escuela se encuentra en peligro, Izuku, sin poderes, corre a su ayuda, y esto despierta la curiosidad del mayor héroe que ha visto la historia: All Might. Y luego de este fatídico encuentro, Izuku escucha las palabras que tanto soñó con escuchar desde su infancia: Tú también puedes ser un héroe.",
+        "elenco": " ",
+        "director": "Kouhei Horikoshi ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oDoLgmq4GNvMH-YsrwqGts6bM0Zjxz19RU0-y0__8e4nGh8YDkzNKCPagtnjGi-MFe8&usqp=CAU",
+        "image2": "https://cdn.superaficionados.com/imagenes/6-animes-interesantes-my-hero-academia-cke.jpg"
+      },
 ]
 
 const labelMain = document.getElementById('labelMain')
@@ -187,9 +297,7 @@ const showMovies = (pelis) =>{
             const pintarDiv = document.createElement('div')
             pintarDiv.classList.add('movies')
             pintarDiv.innerHTML = 
-                
-            `          
-            <img src="${image}" alt="" class="imgMovie" onclick="verVideo(${id})" >  `
+            ` <img src="${image}" alt="" class="imgMovie" onclick="verVideo(${id})" >  `
             populares.appendChild(pintarDiv)
         }
         else if (tipo=="anime"){
@@ -235,6 +343,7 @@ seriesPrint.addEventListener('click', (e)=>{
       }
       showMovies(peliculas)
 } )
+//PELICULAS
 const peliculasPrint = document.getElementById('peliculasCall')
 peliculasPrint.addEventListener('click', (e)=>{
     populares.innerHTML = ``;
@@ -253,15 +362,23 @@ peliculasPrint.addEventListener('click', (e)=>{
                   const pintarDiv = document.createElement('div')
                   pintarDiv.classList.add('movies')
                   pintarDiv.innerHTML = 
-                  `  <img src="${image}" alt="" class="imgMovie" onclick="verVideo(${id})">    `
+                  `  <img src="${image}" alt="" class="imgMovie id="${id}" >    `
                   peliculasform.appendChild(pintarDiv)
               }    
           });
       }
       showMovies(peliculas)
 } )
+//GUARDAR ID EN LOCAL STORAGE
+/* onclick="verVideo(${id})" */
+document.querySelectorAll(".imgMovie").forEach(el => {
+  el.addEventListener("click", e => {
+    const selectedId = e.target.getAttribute('id');
+    console.log("Se ha clickeado el id "+ selectedId);
+  });
+});
 
- function verVideo(id){
+function verVideo(id){
     const result = peliculas.filter((movie)=> movie.id === id)
     localStorage.setItem('video', JSON.stringify(result))
     window.location.href = './descarga.html'
