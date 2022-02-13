@@ -10,7 +10,7 @@ const series = document.getElementById('series')
 
 async function getVideos (){
   try {
-      const resp = await fetch('http://localhost:3000/peliculas');
+      const resp = await fetch('https://netnet3132.herokuapp.com/peliculas');
       const pelis = await resp.json()
       return pelis
   }catch (error){
