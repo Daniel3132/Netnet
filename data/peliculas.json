@@ -1,5 +1,7 @@
-export const peliculas =[
-    {
+{
+    "peliculas": 
+    [
+     {
         "id": 1,
         "name": "Arrow",
         "tipo": "crimen",
@@ -39,7 +41,7 @@ export const peliculas =[
         "formato": "serie",
         "info1": "La serie narra los inicios de Joaquín El Chapo Guzmán en 1985, cuándo era un miembro de nivel bajo del Cártel de Guadalajara, hasta su aumento de poder y su última caída.",
         "elenco": "Marco de la O como Joaquín El Chapo Guzmán.",
-        "director": "Dirigido por:	Ernesto Contreras José Manuel Cravioto ",
+        "director": "Dirigido por: Ernesto Contreras José Manuel Cravioto ",
         "image": "img/peliculas/chapo.jpg",
         "image2": "img/peliculas/chapowall.jpg"
       },
@@ -94,7 +96,7 @@ export const peliculas =[
         "formato": "serie",
         "info1": "Narcos es una serie de televisión web de ficción histórica producida por Dynamo Producciones y Gaumon International Television para Netflix. Creada por los estadounidenses Chris Brancato, Eric Newman y Carlo Bernard; y basada en la lucha contra el narcotráfico en Colombia durante los años 1990. Está protagonizada por Pedro Pascal, Boyd Holbrook, Wagner Moura y Juan Pablo Raba.",
         "elenco": "Wagner Moura Boyd Holbrook Pedro Pascal",
-        "director": "Dirigido por: 	José Padilha",
+        "director": "Dirigido por: José Padilha",
         "image": "img/peliculas/narcos.jpg",
         "image2": "img/peliculas/narcoswall.jpg"
       },
@@ -274,5 +276,6 @@ export const peliculas =[
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oDoLgmq4GNvMH-YsrwqGts6bM0Zjxz19RU0-y0__8e4nGh8YDkzNKCPagtnjGi-MFe8&usqp=CAU",
         "image2": "https://cdn.superaficionados.com/imagenes/6-animes-interesantes-my-hero-academia-cke.jpg"
       }
-  ]
+    ]  
 
+}
